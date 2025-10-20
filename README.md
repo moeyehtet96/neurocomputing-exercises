@@ -1,0 +1,1 @@
+# Neurocomputing Exercises WS25/26
